@@ -1,2 +1,3 @@
 # Predicting-houses-prices-using-data-science
 It is the one part of my intership task. This task is giving me to the coding samurai &amp; this is very helpfully to upgrade my data analysis skills in upcoming time so this project i worked in the Machin learning module after python, SQL, power BI, etc so please visit my code
+project description :- Build a simple machine learning model to predict house prices based on various features such as square footage number of bedrooms neighborhood.and more this project will introduce you to regression analysis which is a fundamental concept in data science.
